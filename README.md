@@ -6,7 +6,14 @@
 > * It starts form MLP learning
 > * These notes are very easy to undersand ,and it have pytorch codes that can run.(I'm very sorry that this note is all written in Chinese)
 > * Wish you a good day!
-
+Chinese version:
+>*DeepLearnigNotes——关于李沐《动手学深度学习》一书的注解
+--来自中国南开大学的本科生
+>*我创建这些笔记是因为我无法理解复杂的数学公式，所以我请人工智能帮助我学习。
+>*我整理了我的笔记，并把它放在github上，希望帮助更多不擅长数学学习DL的人。
+>*它从MLP学习开始
+>*这些笔记很容易理解，而且它有可以运行的pytorch代码。（很抱歉，这些笔记都是用中文写的）
+>*祝你今天过得愉快！
 Now Let's begin.
 
 # 多层感知机
